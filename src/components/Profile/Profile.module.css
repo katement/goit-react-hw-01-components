@@ -1,0 +1,32 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: yellow;
+}
+.name {
+  font-weight: 700;
+}
+.img {
+  display: flex;
+  justify-content: center;
+}
+.profile-stats {
+  /* display: flex; */
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.label {
+  display: block;
+  font-weight: 700;
+}
+.quantity {
+  display: block;
+}
